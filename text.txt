@@ -1,0 +1,6 @@
+1) Get the code and open it in Jupiter Notebook.
+2) We have two datasets: one annotated dataset and one for a collocation algorithm. The annotated dataset is used for classification.
+3) Use the collocation algorithm to extract issues with specific patterns.
+4) Carry out the procedures for oversampling and undersampling.
+5) Please contact me at naikdil2002@gmail.com if you have any questions.
+ 
